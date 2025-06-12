@@ -70,6 +70,7 @@ http://localhost:3000
 ```
 
 ---
+Live : https://sales-dashboard-qnlo.onrender.com/
 
 
 
