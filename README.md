@@ -1,10 +1,10 @@
-# ☕ Coffee Sales Dashboard
+# Coffee Sales Dashboard
 
 A responsive analytics dashboard built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**, following atomic design principles. It displays sales data (mocked via CSV) for 2022, 2023, and 2024, with filterable charts and a clean UI.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Next.js 15** (App Router + TypeScript)
 - **Tailwind CSS**
@@ -14,7 +14,7 @@ A responsive analytics dashboard built with **Next.js 15**, **TypeScript**, and 
 
 ---
 
-## 🗂️ Project Structure (Atomic Design)
+## Project Structure (Atomic Design)
 
 ```
 src/
@@ -33,7 +33,7 @@ public/
 
 ---
 
-## 📊 Features
+## Features
 
 - ✅ Monthly sales bar chart
 - ✅ Filter by Year, Product, Payment Type
@@ -43,14 +43,14 @@ public/
 
 ---
 
-## 🧪 Data Handling
+## Data Handling
 
 - Located in `public/sales.csv`
 - Parsed client-side using `papaparse`
 
 ---
 
-## 🧑‍💻 Getting Started
+## Getting Started
 
 ```bash
 # Install dependencies
